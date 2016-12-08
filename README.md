@@ -23,5 +23,5 @@ And then from the code when you need use it:
 require('turbo-git-commit')()
 ```
 
-This will prompt the command output guiding you on how to commit following the seted commit convention. 
-> Note: The commit convention will be obtain for the `.turbogit` config file. IF the file is not on your repo this will use the default convention got from the package [turbo-git-config](https://github.com/labs-js/turbo-git-config/)
+This will print out the command output guiding you on how to commit, following the obtained commit convention. 
+> Note: The commit convention will be obtained by the `.turbogit` config file on the git repo. If this file is not on your repo this will use the default convention got by the package [turbo-git-config](https://github.com/labs-js/turbo-git-config/)
