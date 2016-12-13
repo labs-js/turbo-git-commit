@@ -9,7 +9,7 @@
   "dependencies": {
     "colors": "^1.1.2",
     "inquirer": "^1.2.3",
-    "turbo-git-config": "^0.1.0"
+    "turbo-git-config": "^0.4.2"
   },
   "devDependencies": {
     "jasmine-node": "^1.14.5",
