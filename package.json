@@ -1,6 +1,6 @@
 {
   "name": "turbo-git-commit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "commit on git with any covention",
   "main": "index.js",
   "scripts": {
