@@ -11,7 +11,7 @@
 
 #### This lib is part of the [Turbo Git](https://github.com/labs-js/turbo-git) -> Making your git even more awesome 😎🙌
 
-## how to use it:
+## How to use it:
 
 ```
 npm install --save turbo-git-commit
@@ -25,6 +25,8 @@ require('turbo-git-commit')()
 
 This will print out the command output guiding you on how to commit, following the obtained commit convention.
 
-<img alt="preview" src="assets/preview.png">
+## Preview
+
+<img alt="preview" src="/assests/preview.png">
 
 > Note: The commit convention will be obtained by the `.turbogit` config file on the corresponding git repo. If this file is not on the repo this will use the default convention got by the package [turbo-git-config](https://github.com/labs-js/turbo-git-config/)
