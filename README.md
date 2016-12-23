@@ -7,7 +7,7 @@
 
 # turbo-git-commit
 
-**Turbo git commit** -> Help command for implement easily a commit convention. 
+**Turbo git commit** -> Help command for implement easily a commit convention.
 
 #### This lib is part of the [Turbo Git](https://github.com/labs-js/turbo-git) -> Making your git even more awesome 😎🙌
 
@@ -23,5 +23,8 @@ And then from the code when you need use it:
 require('turbo-git-commit')()
 ```
 
-This will print out the command output guiding you on how to commit, following the obtained commit convention. 
+This will print out the command output guiding you on how to commit, following the obtained commit convention.
+
+<img alt="preview" src="assets/preview.png">
+
 > Note: The commit convention will be obtained by the `.turbogit` config file on the corresponding git repo. If this file is not on the repo this will use the default convention got by the package [turbo-git-config](https://github.com/labs-js/turbo-git-config/)
