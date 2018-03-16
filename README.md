@@ -7,7 +7,7 @@
 
 # turbo-git-commit
 
-**Turbo git commit** -> Help command for implement easily a commit convention.
+**Turbo git commit** -> git commits with any commit conventions
 
 #### This lib is part of the [Turbo Git](https://github.com/labs-js/turbo-git) -> Making your git even more awesome 😎🙌
 

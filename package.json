@@ -1,7 +1,7 @@
 {
   "name": "turbo-git-commit",
   "version": "0.3.0",
-  "description": "commit on git with any covention",
+  "description": "git commits with any commit conventions",
   "main": "index.js",
   "scripts": {
     "test": "nyc jasmine-node --verbose --captureExceptions test",
