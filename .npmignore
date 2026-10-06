@@ -1,2 +1,4 @@
-test
 assets
+coverage
+.nyc_output
+test
